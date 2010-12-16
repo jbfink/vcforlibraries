@@ -39,5 +39,11 @@
 <node CREATED="1292516748375" ID="Freemind_Link_1109924179" MODIFIED="1292516754033" TEXT="Dropbox"/>
 </node>
 </node>
+<node CREATED="1292519730505" ID="Freemind_Link_1655259876" MODIFIED="1292519734679" POSITION="left" TEXT="Should library people be programmers?">
+<node CREATED="1292519735092" ID="Freemind_Link_1752034779" MODIFIED="1292519738611" TEXT="Yes?"/>
+<node CREATED="1292519738836" ID="Freemind_Link_234268039" MODIFIED="1292519739677" TEXT="No?">
+<node CREATED="1292519739976" ID="Freemind_Link_163985609" MODIFIED="1292519753867" TEXT="Maybe no. But perhaps we can have more programm-y mindsets sometimes."/>
+</node>
+</node>
 </node>
 </map>
