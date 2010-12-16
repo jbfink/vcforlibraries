@@ -17,5 +17,9 @@
 </node>
 <node CREATED="1292512622012" ID="Freemind_Link_1430359119" MODIFIED="1292512623937" TEXT="old VC"/>
 </node>
+<node CREATED="1292513857146" ID="Freemind_Link_663904524" MODIFIED="1292513864754" POSITION="left" TEXT="Importance to programming">
+<node CREATED="1292513865166" ID="Freemind_Link_1112978398" MODIFIED="1292513888408" TEXT="nobody&apos;s perfect"/>
+<node CREATED="1292513871672" ID="Freemind_Link_1172293665" MODIFIED="1292513873305" TEXT="images"/>
+</node>
 </node>
 </map>
