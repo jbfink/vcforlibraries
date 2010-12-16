@@ -34,6 +34,10 @@
 <node CREATED="1292515243511" ID="Freemind_Link_330269302" MODIFIED="1292515245197" TEXT="git"/>
 </node>
 </node>
+<node CREATED="1292516710869" ID="Freemind_Link_652292783" MODIFIED="1292516712884" TEXT="&quot;Other&quot;">
+<node CREATED="1292516746063" ID="Freemind_Link_1922893880" MODIFIED="1292516748112" TEXT="google docs"/>
+<node CREATED="1292516748375" ID="Freemind_Link_1109924179" MODIFIED="1292516754033" TEXT="Dropbox"/>
+</node>
 </node>
 </node>
 </map>
