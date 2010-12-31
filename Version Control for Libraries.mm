@@ -1,4 +1,4 @@
-<map version="0.8.0">
+<map version="0.8.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
 <node CREATED="1292512595887" ID="Freemind_Link_1388242621" MODIFIED="1292512603371" TEXT="Version Control for Libraries">
 <node CREATED="1292512608842" ID="_" MODIFIED="1292512610241" POSITION="right" TEXT="history">
@@ -31,7 +31,13 @@
 <node CREATED="1292515276732" ID="Freemind_Link_349937815" MODIFIED="1292515279496" TEXT="OSS">
 <node CREATED="1292515250169" ID="Freemind_Link_1718083489" MODIFIED="1292515270300" TEXT="bzr"/>
 <node CREATED="1292515245775" ID="Freemind_Link_514835888" MODIFIED="1292515247283" TEXT="hg"/>
-<node CREATED="1292515243511" ID="Freemind_Link_330269302" MODIFIED="1292515245197" TEXT="git"/>
+<node CREATED="1292515243511" ID="Freemind_Link_330269302" MODIFIED="1292515245197" TEXT="git">
+<node CREATED="1293761300271" ID="Freemind_Link_1027458310" MODIFIED="1293761302960" TEXT="torvalds">
+<node CREATED="1293761311828" FOLDED="true" ID="Freemind_Link_393547390" MODIFIED="1293761367961" TEXT="Why is Torvalds not a genius for Linux but a genius for git?">
+<node CREATED="1293761371103" ID="Freemind_Link_666424577" MODIFIED="1293761481514" TEXT="c.f.:http://perl.plover.com/yak/git/"/>
+</node>
+</node>
+</node>
 </node>
 </node>
 <node CREATED="1292516710869" ID="Freemind_Link_652292783" MODIFIED="1292516712884" TEXT="&quot;Other&quot;">
