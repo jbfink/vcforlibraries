@@ -51,5 +51,15 @@
 <node CREATED="1292519739976" ID="Freemind_Link_163985609" MODIFIED="1292519753867" TEXT="Maybe no. But perhaps we can have more programm-y mindsets sometimes."/>
 </node>
 </node>
+<node CREATED="1296846191796" ID="Freemind_Link_562236545" MODIFIED="1296846194417" POSITION="right" TEXT="my own VC history">
+<node CREATED="1296846194926" ID="Freemind_Link_810355801" MODIFIED="1296846217240" TEXT="nuking Amanda&apos;s wordpress configs"/>
+<node CREATED="1296846242833" ID="Freemind_Link_359937158" MODIFIED="1296846244227" TEXT="prehistory">
+<node CREATED="1296846218196" ID="Freemind_Link_1849718409" MODIFIED="1296846233899" TEXT="RCS"/>
+<node CREATED="1296846247283" ID="Freemind_Link_1088991792" MODIFIED="1296846250479" TEXT="&quot;.bak&quot; files"/>
+</node>
+</node>
+<node CREATED="1296846258597" ID="Freemind_Link_357694338" MODIFIED="1296846261310" POSITION="left" TEXT="VC for collaboration">
+<node CREATED="1296846261668" ID="Freemind_Link_1645478315" MODIFIED="1296846264027" TEXT="OLA 2011"/>
+</node>
 </node>
 </map>
