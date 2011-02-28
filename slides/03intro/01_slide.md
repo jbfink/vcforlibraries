@@ -1,13 +1,7 @@
-!SLIDE center bullets
-# Version Control for Libraries #
+!SLIDE 
 
-* John Fink
-* Digital Technologies Development Librarian
-* McMaster University
+# Play #
 
-!SLIDE bullets incremental
-# Bullet Points #
+!SLIDE full-page
+![](img/rcrtitle.png)
 
-* first point
-* second point
-* third point
