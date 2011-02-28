@@ -1,7 +1,7 @@
 { "name": "Version Control for Libraries", 
 "sections": [ 
  {"title"},
- {"about me"},
- {"section":"intro"} 
+ {"about_me"},
+ {"intro"} 
  
 ]}
