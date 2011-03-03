@@ -37,6 +37,11 @@
 <node CREATED="1293761371103" ID="Freemind_Link_666424577" MODIFIED="1293761481514" TEXT="c.f.:http://perl.plover.com/yak/git/"/>
 </node>
 </node>
+<node CREATED="1299164020336" ID="Freemind_Link_156798332" MODIFIED="1299164021850" TEXT="good">
+<node CREATED="1299164024129" ID="Freemind_Link_123437143" MODIFIED="1299164028230" TEXT="Small"/>
+<node CREATED="1299164028484" ID="Freemind_Link_1511420304" MODIFIED="1299164029871" TEXT="fast!"/>
+</node>
+<node CREATED="1299164022151" ID="Freemind_Link_1131174158" MODIFIED="1299164023185" TEXT="bad"/>
 </node>
 </node>
 </node>
@@ -53,6 +58,7 @@
 <node CREATED="1299162446425" ID="Freemind_Link_1700019801" MODIFIED="1299162447401" TEXT="good">
 <node CREATED="1299162358362" ID="Freemind_Link_1979372075" MODIFIED="1299162361204" TEXT="flexible workflow"/>
 <node CREATED="1299162356654" ID="Freemind_Link_1750585296" MODIFIED="1299162357861" TEXT="offline"/>
+<node CREATED="1299164008736" ID="Freemind_Link_722187638" MODIFIED="1299164015639" TEXT="Every repo is a backup of every other repo"/>
 </node>
 <node CREATED="1299162454554" ID="Freemind_Link_357679425" MODIFIED="1299162455282" TEXT="bad">
 <node CREATED="1299162634181" ID="Freemind_Link_1989024723" MODIFIED="1299162637534" TEXT="flexible workflow"/>
@@ -65,7 +71,9 @@
 </node>
 </node>
 <node CREATED="1292519730505" ID="Freemind_Link_1655259876" MODIFIED="1292519734679" POSITION="left" TEXT="Should library people be programmers?">
-<node CREATED="1292519735092" ID="Freemind_Link_1752034779" MODIFIED="1292519738611" TEXT="Yes?"/>
+<node CREATED="1292519735092" ID="Freemind_Link_1752034779" MODIFIED="1292519738611" TEXT="Yes?">
+<node CREATED="1299163587194" ID="Freemind_Link_883099331" MODIFIED="1299163591871" TEXT="Program or be programmed"/>
+</node>
 <node CREATED="1292519738836" ID="Freemind_Link_234268039" MODIFIED="1292519739677" TEXT="No?">
 <node CREATED="1299163438490" ID="Freemind_Link_1622078476" MODIFIED="1299163461101" TEXT="Even if no, we deal with technologists constantly and need to grok their mindset"/>
 </node>
