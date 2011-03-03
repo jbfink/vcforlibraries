@@ -3,13 +3,9 @@
 # Play #
 
 !SLIDE full-page
-.notes dog!
-
 ![](img/pong-console.jpg)
 
 !SLIDE full-page
-.notes image of Intellivision
-
 ![](img/intellivision.jpg)
 
 !SLIDE full-page
