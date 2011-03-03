@@ -10,6 +10,8 @@
 !SLIDE full-page
 .notes image of Intellivision
 
+![](img/intellivision.jpg)
+
 !SLIDE full-page
 .notes image of TRS-80 Coco
 
