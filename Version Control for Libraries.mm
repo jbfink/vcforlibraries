@@ -54,7 +54,9 @@
 <node CREATED="1299162358362" ID="Freemind_Link_1979372075" MODIFIED="1299162361204" TEXT="flexible workflow"/>
 <node CREATED="1299162356654" ID="Freemind_Link_1750585296" MODIFIED="1299162357861" TEXT="offline"/>
 </node>
-<node CREATED="1299162454554" ID="Freemind_Link_357679425" MODIFIED="1299162455282" TEXT="bad"/>
+<node CREATED="1299162454554" ID="Freemind_Link_357679425" MODIFIED="1299162455282" TEXT="bad">
+<node CREATED="1299162634181" ID="Freemind_Link_1989024723" MODIFIED="1299162637534" TEXT="flexible workflow"/>
+</node>
 </node>
 <node CREATED="1299162456705" ID="Freemind_Link_1652600684" MODIFIED="1299162457834" TEXT="central">
 <node CREATED="1299162458020" ID="Freemind_Link_251174951" MODIFIED="1299162458710" TEXT="good"/>
@@ -65,7 +67,7 @@
 <node CREATED="1292519730505" ID="Freemind_Link_1655259876" MODIFIED="1292519734679" POSITION="left" TEXT="Should library people be programmers?">
 <node CREATED="1292519735092" ID="Freemind_Link_1752034779" MODIFIED="1292519738611" TEXT="Yes?"/>
 <node CREATED="1292519738836" ID="Freemind_Link_234268039" MODIFIED="1292519739677" TEXT="No?">
-<node CREATED="1292519739976" ID="Freemind_Link_163985609" MODIFIED="1292519753867" TEXT="Maybe no. But perhaps we can have more programm-y mindsets sometimes."/>
+<node CREATED="1299163438490" ID="Freemind_Link_1622078476" MODIFIED="1299163461101" TEXT="Even if no, we deal with technologists constantly and need to grok their mindset"/>
 </node>
 </node>
 <node CREATED="1296846191796" ID="Freemind_Link_562236545" MODIFIED="1296846194417" POSITION="right" TEXT="my own VC history">
@@ -83,8 +85,12 @@
 <node CREATED="1299162176509" ID="Freemind_Link_579627835" MODIFIED="1299162185047" POSITION="right" TEXT="Good/Bad">
 <node CREATED="1299162185616" ID="Freemind_Link_993894696" MODIFIED="1299162186646" TEXT="Bad">
 <node CREATED="1299162186963" ID="Freemind_Link_1858951748" MODIFIED="1299162190333" TEXT="Binaries"/>
-<node CREATED="1299162191225" ID="Freemind_Link_495749482" MODIFIED="1299162194518" TEXT="Simplicity"/>
-<node CREATED="1299162199780" ID="Freemind_Link_1366450833" MODIFIED="1299162208561" TEXT="(occasionally) cross-platform support"/>
+<node CREATED="1299162191225" ID="Freemind_Link_495749482" MODIFIED="1299162194518" TEXT="Simplicity">
+<node CREATED="1299163399927" ID="Freemind_Link_1698205190" MODIFIED="1299163403675" TEXT="Learning curve"/>
+</node>
+<node CREATED="1299162199780" ID="Freemind_Link_1366450833" MODIFIED="1299162208561" TEXT="(occasionally) cross-platform support">
+<node CREATED="1299163392459" ID="Freemind_Link_1274799521" MODIFIED="1299163398989" TEXT="this is less of an issue now"/>
+</node>
 </node>
 </node>
 <node CREATED="1299162267142" ID="Freemind_Link_271597416" MODIFIED="1299162269282" POSITION="left" TEXT="Stuff to demo?">
