@@ -5,7 +5,7 @@
 !SLIDE full-page
 .notes dog!
 
-![](img/placeholder.jpg)
+![](img/pong-console.jpg)
 
 !SLIDE full-page
 .notes image of Intellivision
