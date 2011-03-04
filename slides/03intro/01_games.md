@@ -16,3 +16,8 @@
 
 !SLIDE full-page
 ![](img/rcrpassword.png)
+
+!SLIDE full-page
+.notes either infocom or roguelike
+.notes talk about backing up files with .bak or something
+
