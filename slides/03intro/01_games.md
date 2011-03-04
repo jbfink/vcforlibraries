@@ -11,6 +11,8 @@
 !SLIDE full-page
 .notes image of TRS-80 Coco
 
+![](img/trs80.jpg)
+
 !SLIDE full-page
 ![](img/rcrtitle.png)
 
@@ -21,3 +23,4 @@
 .notes either infocom or roguelike
 .notes talk about backing up files with .bak or something
 
+![](img/brogue.png)
