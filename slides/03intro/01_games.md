@@ -9,8 +9,6 @@
 ![](img/intellivision.jpg)
 
 !SLIDE full-page
-.notes image of TRS-80 Coco
-
 ![](img/trs80.jpg)
 
 !SLIDE full-page
