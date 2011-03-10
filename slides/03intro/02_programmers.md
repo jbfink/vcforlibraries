@@ -1,5 +1,5 @@
-!SLIDE
-.notes programmers -- image of neckbeard
+!SLIDE full-page
+![](img/Ken_n_dennis.jpg)
 
 !SLIDE
 .notes why programmers need version control
