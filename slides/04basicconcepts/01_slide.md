@@ -1,5 +1,11 @@
-!SLIDE
-.notes what vc is good for, what it isnt -- binaries bad, text good
+!SLIDE bullets incremental transition=fade
+# What version control is good on #
+
+* text
+
+# What version control is bad on #
+
+* things that are not text
 
 !SLIDE 
 .notes initting? (crosswords metaphor throughout?)
