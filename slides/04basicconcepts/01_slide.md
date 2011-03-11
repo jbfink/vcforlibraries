@@ -9,3 +9,9 @@
 
 !SLIDE
 .notes merging 
+
+!SLIDE
+.notes branching
+
+!SLIDE
+.notes diff
