@@ -13,6 +13,8 @@
 * binaries
 * your learning curve
 
+!SLIDE full-screen
+
 !SLIDE
 .notes committing
 
