@@ -13,3 +13,5 @@
 * ...you want to collaborate with a non-trivial number of people
 * ...you want to impress your programmers
 
+!SLIDE
+## Programmers themselves use version control because programming is a very inexact science. There's a lot of trial and error, and a lot of collaboration, and a need to examine the history of code very very carefully to determine where things broke ##
