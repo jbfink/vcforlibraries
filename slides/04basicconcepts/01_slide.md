@@ -1,11 +1,17 @@
-!SLIDE bullets incremental transition=fade
+!SLIDE smbullets incremental transition=fade
 # What version control is good on #
 
 * text
-* things which require iterative development
+* things which require iterative development...
+* ...and whose histories you might want to revisit 
+* collaboration
+* and solo work
 
-!SLIDE 
-.notes initting? (crosswords metaphor throughout?)
+!SLIDE bullets incremental transition=fade 
+# what version control is bad on #
+
+* binaries
+* your learning curve
 
 !SLIDE
 .notes committing
