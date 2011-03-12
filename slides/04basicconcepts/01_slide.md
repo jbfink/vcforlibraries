@@ -13,7 +13,8 @@
 * binaries
 * your learning curve
 
-!SLIDE full-screen
+!SLIDE full-page
+![](img/crossword1.png)
 
 !SLIDE
 .notes committing
