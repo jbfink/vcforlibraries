@@ -22,5 +22,5 @@
 * ...either an absolute genius
 * ...lying
 * ...working on extremely tiny programs
-* ...not really programming, but stealing code and telling you they're programming
-* ...terrible.
+* ...not really programming, but copying code and telling you they're programming
+* ...awful.
