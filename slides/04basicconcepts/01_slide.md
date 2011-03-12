@@ -14,6 +14,9 @@
 * your learning curve
 
 !SLIDE full-page
+![](img/crossword0.png)
+
+!SLIDE full-page
 ![](img/crossword1.png)
 
 !SLIDE
