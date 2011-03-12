@@ -2,10 +2,7 @@
 # What version control is good on #
 
 * text
-
-# What version control is bad on #
-
-* things that are not text
+* things which require iterative development
 
 !SLIDE 
 .notes initting? (crosswords metaphor throughout?)
