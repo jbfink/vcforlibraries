@@ -10,8 +10,8 @@
 * restricted in workflow by design
 * think -- web server, web client
 
-!SLIDE 
-.notes 
+!SLIDE full-page
+![](img/workflow-a.png)
 
 !SLIDE bullets incremental
 # Decentralized #
