@@ -20,6 +20,9 @@
 * workflow can be just about anything
 * think -- peer to peer
 
+!SLIDE full-page
+![](img/workflow-b.png)
+
 !SLIDE bullets incremental
 # Centralized VC #
 * CVS
