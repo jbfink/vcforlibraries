@@ -1,3 +1,4 @@
+*.sw?
 images
 presos/*
 showoff/*
