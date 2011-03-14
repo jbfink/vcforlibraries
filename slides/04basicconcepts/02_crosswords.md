@@ -1,3 +1,6 @@
+!SLIDE 
+## but first! ##
+
 !SLIDE full-page
 ## initting ##
 ![](img/crossword0.png)
