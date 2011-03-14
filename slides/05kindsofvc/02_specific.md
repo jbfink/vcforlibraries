@@ -6,9 +6,9 @@
 
 !SLIDE bullets incremental
 # Decentralized VC #
-* git
 * Mercurial
 * Bazaar
+* git
 
 !SLIDE 
 # my git history #

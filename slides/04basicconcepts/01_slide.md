@@ -8,7 +8,8 @@
 
 !SLIDE bullets incremental transition=fade 
 ## what version control is bad on ##
-# binaries #
+* your brain
+* binaries
 
 !SLIDE full-page
 # compare and contrast! #
