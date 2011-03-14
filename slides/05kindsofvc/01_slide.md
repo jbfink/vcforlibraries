@@ -18,6 +18,7 @@
 * Has no "authoritative" server by default
 * Every checkout contains the entire history of the project
 * workflow can be just about anything
+* no single point of failure, unless there is *only* a single point
 * think -- peer to peer
 
 !SLIDE full-page
