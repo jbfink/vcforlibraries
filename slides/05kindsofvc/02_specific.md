@@ -9,3 +9,6 @@
 * git
 * Mercurial
 * Bazaar
+
+!SLIDE 
+# my git history #
