@@ -18,6 +18,3 @@
 ## branching ##
 ![](img/crosswords-directory.png)
 
-!SLIDE
-.notes diff
-

@@ -8,7 +8,14 @@
 
 !SLIDE bullets incremental transition=fade 
 ## what version control is bad on ##
+# binaries #
 
-* binaries
-* your learning curve
+!SLIDE full-page
+# compare and contrast! #
+![](img/e02d_1.jpg)
 
+!SLIDE full-page
+![](img/fotopodborka_058.jpg)
+
+!SLIDE transition=fade
+## version control can deal with binaries, but it can't tell exactly what the differences are ##
