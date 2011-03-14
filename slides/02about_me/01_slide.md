@@ -9,7 +9,5 @@
 ## http://claimid.com/adr ##
 
 !SLIDE
+# A little bit about this presentation #
 
-# Version Control for Libraries #
-
-# something something something #

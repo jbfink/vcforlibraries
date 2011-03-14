@@ -14,3 +14,7 @@
 * ...you want to collaborate with a non-trivial number of people
 * ...you want to impress your programmers
 
+!SLIDE bullets incremental transition=fade
+## Differences between "casual" and "real" version control
+* ...Real VC keeps as much history as possible
+* ...
