@@ -17,4 +17,7 @@
 !SLIDE bullets incremental transition=fade
 ## Differences between "casual" and "real" version control
 * ...Real VC keeps as much history as possible
-* ...
+* ...Real VC usually has some sort of integrity protection
+* ...Real VC is designed for collaboration
+* ...Real VC can keep track of massive projects
+* ...Real VC is *hard*.
