@@ -25,7 +25,7 @@
 ![](img/crossword-player2.png)
 
 !SLIDE
-.notes branching
+![](img/crosswords-directory.png)
 
 !SLIDE
 .notes diff
