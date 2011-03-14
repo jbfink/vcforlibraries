@@ -6,7 +6,7 @@
 * ...make multiple backups of things
 * ...use Google Docs or Microsoft Word
 * ...or Dropbox
-* ...or use Wikipedia.
+* ...or edit Wikipedia.
 
 !SLIDE bullets incremental transition=fade
 ## but you should learn about formal VC if ##
