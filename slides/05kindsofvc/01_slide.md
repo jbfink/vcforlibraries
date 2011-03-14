@@ -23,9 +23,3 @@
 !SLIDE full-page
 ![](img/workflow-b.png)
 
-!SLIDE bullets incremental
-# Centralized VC #
-* CVS
-* Subversion
-
-
